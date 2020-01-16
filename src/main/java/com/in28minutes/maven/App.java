@@ -12,6 +12,6 @@ public class App
     }
 
 	public int calculateSomething() {
-		return 2;
+		return 0;
 	}
 }
